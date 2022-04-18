@@ -1,0 +1,57 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "MacBook Pro",
+      "desc": "10-Core CPU\n32-Core GPU\n32GB Unified Memory\n1TB SSD Storage¹\n16-core Neural Engine\n16.2 Inch Liquid Retina Display\nMagic Keyboard with Touch ID\nForce Touch trackpad\n140W USB-C Power Adapter",
+      "price": "₹3,29,999.00",
+      "color": "#212121",
+      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mbp16-spacegray-select-202110?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1632788574000"
+    },
+
+    {
+      "id": 2,
+      "name": "HP Victus Laptop",
+      "desc": "Processor: 5th Gen AMD Ryzen 5 5600H\nMemory: 8 GB DDR4-3200 MHz RAM\nStorage: 512 GB PCIe NVMe TLC M.2 SSD\nDisplay: 16.1 Inch Diagonal, FHD IPS\nGraphics: NVIDIA GeForce GTX 1650 4 GB",
+      "price": "₹59,999.00",
+      "color": "#33505a",
+      "image": "https://m.media-amazon.com/images/I/71h7F81EBoS._SX679_.jpg"
+    },
+
+    {
+      "id": 3,
+      "name": "iPhone 13 Pro Max",
+      "desc": "6.7 Inch All-Screen OLED Display With ProMotion\nPro Camera System With Telephoto, Wide, Ultra Wide\nA15 Bionic Chip\n5-Core GPU\n5G Capable\nUp To 28 Hours Video Playback⁴\nFace ID",
+      "price": "₹1,29,999.00",
+      "color": "#33505a",
+      "image": "https://m.media-amazon.com/images/I/61i8Vjb17SL._SX679_.jpg"
+    },
+
+    {
+      "id": 4,
+      "name": "iPad Pro",
+      "desc": "12.9 Inch Liquid Retina XDR Display With ProMotion Technology\nM1 Chip\n12MP Wide and 10MP Ultra Wide Back Cameras\n12MP TrueDepth Front Camera With Centre Stage\n5G capable",
+      "price": "₹69,999.00",
+      "color": "#33505a",
+      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/ipad-pro-12-11-select-202104_GEO_IN?wid=1090&hei=1100&fmt=jpeg&qlt=90&.v=1617864721000"
+    },
+
+    {
+      "id": 5,
+      "name": "Watch Series 7",
+      "desc": "Retina display\nBlood Oxygen app\nECG app\nHigh and low heart rate notifications\nIrregular heart rhythm notification\nEmergency SOS\nInternational Emergency Calling\nFall Detection\nCellular available footnote",
+      "price": "₹49,999.00",
+      "color": "#33505a",
+      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/watch-s7-lifestyle-edition-202203_GEO_IN?wid=1820&hei=2332&fmt=jpeg&qlt=90&.v=1645734655350"
+    },
+
+    {
+      "id": 6,
+      "name": "AirPods Max",
+      "desc": "Designed for an exceptional fit\nHigh-Fidelity Audio\nNoise Control\nSpatial Audio",
+      "price": "₹65,999.00",
+      "color": "#33505a",
+      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/airpods-max-hero-select-202011?wid=940&hei=1112&fmt=jpeg&qlt=90&.v=1604709293000"
+    }
+  ]
+}
