@@ -45,6 +45,4 @@ https://user-images.githubusercontent.com/103946177/163849988-cc1439a9-8dc8-407a
 
 Email : adhil.n.963@gmail.com
 
-Mobile Number : +91 81295 87155
-
 LinkedIn : www.linkedin.com/in/adhil-n-963x
