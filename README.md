@@ -36,16 +36,15 @@ Cart Screen
 ![Screenshot_20220418_224844](https://user-images.githubusercontent.com/103946177/163847668-6dd79636-b7a0-43f3-8c7f-7aded8b1b90c.png)
 
 
-
 # Video
+
+https://user-images.githubusercontent.com/103946177/163849530-0f44761c-6e5a-4393-95d7-5ee5c6f068d6.mp4
+
 
 # Contact Details
 
 Email : adhil.n.963@gmail.com
+
 Mobile Number : +91 81295 87155
+
 LinkedIn : www.linkedin.com/in/adhil-n-963x
-
-
-
-
-
