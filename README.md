@@ -3,7 +3,7 @@
 A Catalog Application Developed Using Flutter Framework/SDK.
 
 
-# Technologies Used -
+# Technologies Used 
 
 Front-End : Flutter
 
@@ -17,16 +17,35 @@ Back-End : JSON
 # Images
 
 Login Screen
+
 ![Screenshot_20220418_224538](https://user-images.githubusercontent.com/103946177/163847052-1469df0f-8e89-4ae8-8197-ebc19938c12e.png)
 
+
 Home Screen
+
 ![Screenshot_20220418_224658](https://user-images.githubusercontent.com/103946177/163847431-97e0afd7-8835-4fcc-a0be-9fb0a57e511c.png)
 
+
 Product Detail Screen
+
 ![Screenshot_20220418_224734](https://user-images.githubusercontent.com/103946177/163847582-41ca1fb2-028a-4e09-a9bb-a372d347214d.png)
 
+
 Cart Screen
+
 ![Screenshot_20220418_224844](https://user-images.githubusercontent.com/103946177/163847668-6dd79636-b7a0-43f3-8c7f-7aded8b1b90c.png)
 
 
+
 # Video
+
+# Contact Details
+
+Email : adhil.n.963@gmail.com
+Mobile Number : +91 81295 87155
+LinkedIn : www.linkedin.com/in/adhil-n-963x
+
+
+
+
+
