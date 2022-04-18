@@ -9,9 +9,9 @@ Front-End : Flutter
 
 Custom Design (UI/UX) : VelocityX
 
-State Management - VxState
+State Management - VxState (VelocityX)
 
-Back-End : JSON
+Back-End (Database) : JSON
 
 
 # Images
