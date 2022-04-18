@@ -38,7 +38,7 @@ Cart Screen
 
 # Video
 
-https://user-images.githubusercontent.com/103946177/163849530-0f44761c-6e5a-4393-95d7-5ee5c6f068d6.mp4
+https://user-images.githubusercontent.com/103946177/163849988-cc1439a9-8dc8-407a-937f-192ce2dc670a.mp4
 
 
 # Contact Details
